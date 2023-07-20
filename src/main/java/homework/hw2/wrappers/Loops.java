@@ -8,23 +8,23 @@ public class Loops {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-//        System.out.println("Введите положительное целое число, таблицу умножения до 12 которого нужно выведена в коонсоль.  ");
-//        printMultiplicationTable(scanner.nextInt());
-//
-//        System.out.println("Ведите чилсо фактариал которого нужно вычислить.");
-//        numberFactorial(scanner.nextInt());
-//
-//        System.out.println(" Введите положительное целое число. ");
-//        int num = scanner.nextInt();
-//        System.out.println(" Введите степень в которую нобходимо возвести число. ");
-//        exponentiationOfNum(num, scanner.nextInt());
-//
-//        System.out.println(" Введите положительное целое число для вычисления последовательности Фибоначчи. ");
-//        fibonacciSequence(scanner.nextInt());
-//
-//        System.out.println();
-//        System.out.println(" Введите положительное целое число для вычисления последовательности Фибоначчи. ");
-//        fibonacciSequence2(scanner.nextInt());
+        System.out.println("Введите положительное целое число, таблицу умножения до 12 которого нужно выведена в коонсоль.  ");
+        printMultiplicationTable(scanner.nextInt());
+
+        System.out.println("Ведите чилсо фактариал которого нужно вычислить.");
+        numberFactorial(scanner.nextInt());
+
+        System.out.println(" Введите положительное целое число. ");
+        int num = scanner.nextInt();
+        System.out.println(" Введите степень в которую нобходимо возвести число. ");
+        exponentiationOfNum(num, scanner.nextInt());
+
+        System.out.println(" Введите положительное целое число для вычисления последовательности Фибоначчи. ");
+        fibonacciSequence(scanner.nextInt());
+
+        System.out.println();
+        System.out.println(" Введите положительное целое число для вычисления последовательности Фибоначчи. ");
+        fibonacciSequence2(scanner.nextInt());
     }
 
     /**

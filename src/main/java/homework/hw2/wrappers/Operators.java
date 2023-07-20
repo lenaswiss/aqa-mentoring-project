@@ -7,12 +7,12 @@ public class Operators {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-//        System.out.println("Enter number.");
-//        getYearsAndDays(scanner.nextLong());
-//
-//        System.out.println();
-//        System.out.println("Input the time zone offset to GMT: ");
-//        printGMTCurrentTime(scanner.nextInt());
+        System.out.println("Enter number.");
+        getYearsAndDays(scanner.nextLong());
+
+        System.out.println();
+        System.out.println("Input the time zone offset to GMT: ");
+        printGMTCurrentTime(scanner.nextInt());
 
         System.out.println();
         System.out.println("Input first int: ");
