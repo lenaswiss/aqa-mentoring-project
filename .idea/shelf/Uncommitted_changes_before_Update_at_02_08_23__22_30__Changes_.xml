@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Update_at_02_08_23,_22_30_[Changes]" date="1691008256157" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_23,_22_30_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 02.08.23, 22:30 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/homework/TestClass1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_23,_22_30_[Changes]/TestClass1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/homework/hw2/wrappers/WrappersDemo$AutoboxingCheck.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_23,_22_30_[Changes]/WrappersDemo$AutoboxingCheck.class" />
+  </binary>
+</changelist>
